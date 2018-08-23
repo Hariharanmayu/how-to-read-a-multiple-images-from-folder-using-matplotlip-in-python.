@@ -34,7 +34,7 @@ fname1 = [os.path.join(train_dir,fname)
 
 fname2 = [os.path.join(validate_dir,fname)
         
-        for fname in validate[:]]                     # read a multiple image file name from the foldre
+        for fname in validate[:]]                           # read a multiple image file name from the foldre
         
         
 
