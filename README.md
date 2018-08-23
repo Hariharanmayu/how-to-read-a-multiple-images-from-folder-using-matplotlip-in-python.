@@ -5,6 +5,9 @@ This a my fun time project. This is help to read a multiple images from your loc
 # Install matplotlib (only ubuntu)
 
   # Ubuntu
+  
   sudo apt-get update
+  
   python3 -mpip install -U pip
+  
   python3 -mpip install -U matplotlib  
